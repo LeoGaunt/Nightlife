@@ -1,0 +1,21 @@
+{
+    "name": "Nightlife",
+    "displayName": "Nightlife",
+    "description": "A VSCode Colour Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightlife",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightlife-color-theme.json"
+            }
+        ]
+    }
+}
